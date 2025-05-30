@@ -1,1 +1,1 @@
-# MultiThreading-in-C-
+# MultiThreading-in-C++
